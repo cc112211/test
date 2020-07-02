@@ -11,13 +11,9 @@
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
-        },
-        {
-            "name": "yunwuxin",
-            "email": "448901948@qq.com"
-        }        
+            "name": "cc112211",
+            "emall": "231132257@qq.com
+        }
     ],
     "require": {
         "php": ">=7.1.0",
